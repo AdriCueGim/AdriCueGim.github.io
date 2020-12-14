@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<pokedex>
+	<pokemon id="1">
+		<name>Bulbasaur</name>
+		<types>
+			<type>Planta</type>
+			<type>Veneno</type>
+		</types>
+		<description>
+			Bulbasaur es un Pokémon de tipo planta/veneno introducido en la primera generación. Es uno de los Pokémon iniciales que pueden elegir los entrenadores que empiezan su aventura en la región de Kanto, junto a Squirtle y Charmander, en las ediciones Pokémon Rojo, Pokémon Verde y Pokémon Azul y Pokémon Rojo Fuego y Pokémon Verde Hoja. Se destaca por ser el primer Pokémon de la Pokédex Nacional.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/300px-Bulbasaur.png
+		</image>
+	</pokemon>
+	<pokemon id="2">
+		<name>Ivysaur</name>
+		<types>
+			<type>Planta</type>
+			<type>Veneno</type>
+		</types>
+		<description>
+			Ivysaur es un Pokémon de tipo planta/veneno introducido en la primera generación. Es la evolución de Bulbasaur, uno de los Pokémon iniciales de Kanto.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20190406151903/Ivysaur.png/300px-Ivysaur.png
+		</image>
+	</pokemon>
+	<pokemon id="3">
+		<name>Venusaur</name>
+		<types>
+			<type>Planta</type>
+			<type>Veneno</type>
+		</types>
+		<description>
+			Venusaur es un Pokémon de tipo planta/veneno introducido en la primera generación. Es la evolución de Ivysaur.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/be/latest/20160309230456/Venusaur.png/300px-Venusaur.png
+		</image>
+	</pokemon>
+	<pokemon id="4">
+		<name>Charmander</name>
+		<types>
+			<type>Fuego</type>
+		</types>
+		<description>
+			Charmander es un Pokémon de tipo fuego introducido en la primera generación. Es uno de los Pokémon iniciales que pueden elegir los entrenadores que empiezan su aventura en la región Kanto, junto a Bulbasaur y Squirtle, en las ediciones Pokémon Rojo, Pokémon Verde y Pokémon Azul y Pokémon Rojo Fuego y Pokémon Verde Hoja.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20200307023245/Charmander.png/300px-Charmander.png
+		</image>
+	</pokemon>
+	<pokemon id="5">
+		<name>Charmeleon</name>
+		<types>
+			<type>Fuego</type>
+		</types>
+		<description>
+			Charmeleon es un Pokémon de tipo fuego introducido en la primera generación. Es la evolución de Charmander, uno de los Pokémon iniciales de los entrenadores que comienzan su aventura en la región de Kanto.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fb/latest/20200411222755/Charmeleon.png/300px-Charmeleon.png
+		</image>
+	</pokemon>
+	<pokemon id="6">
+		<name>Charizard</name>
+		<types>
+			<type>Fuego</type>
+			<type>Volador</type>
+		</types>
+		<description>
+			Charizard es un Pokémon de tipo fuego/volador, introducido en la primera generación. Es la evolución de Charmeleon.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/975px-Charizard.png
+		</image>
+	</pokemon>
+	<pokemon id="7">
+		<name>Squirtle</name>
+		<types>
+			<type>Agua</type>
+		</types>
+		<description>
+			Squirtle es un Pokémon de tipo agua introducido en la primera generación. Es uno de los Pokémon iniciales en la región Kanto, junto a Bulbasaur y Charmander, en las ediciones Pokémon Rojo, Pokémon Verde y Pokémon Azul y Pokémon Rojo Fuego y Pokémon Verde Hoja.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e3/latest/20160309230820/Squirtle.png/300px-Squirtle.png
+		</image>
+	</pokemon>
+	<pokemon id="8">
+		<name>Wartortle</name>
+		<types>
+			<type>Agua</type>
+		</types>
+		<description>
+			Wartortle es un Pokémon de tipo agua introducido en la primera generación. Es la forma evolucionada de Squirtle, uno de los Pokémon iniciales de Kanto.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d7/latest/20200307022248/Wartortle.png/300px-Wartortle.png
+		</image>
+	</pokemon>
+	<pokemon id="9">
+		<name>Blastoise</name>
+		<types>
+			<type>Agua</type>
+		</types>
+		<description>
+			Blastoise es un Pokémon de tipo agua introducido en la primera generación. Es la evolución de Wartortle.
+		</description>
+		<image>
+			https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/41/latest/20200411222955/Blastoise.png/300px-Blastoise.png
+		</image>
+	</pokemon>
+</pokedex>
